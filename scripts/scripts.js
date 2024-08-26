@@ -142,3 +142,5 @@ async function loadPage() {
 }
 
 loadPage();
+
+/** adding a class onindex page
