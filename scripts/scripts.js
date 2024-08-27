@@ -142,3 +142,5 @@ async function loadPage() {
 }
 
 loadPage();
+
+/** code related to Index page
